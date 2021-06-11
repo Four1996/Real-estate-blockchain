@@ -8,7 +8,7 @@
 
         ">
 
-
     <!--加载properties文件信息-->
     <context:property-placeholder location="classpath:jdbc.properties"/>
+
 </beans>
